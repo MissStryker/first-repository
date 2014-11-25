@@ -6,3 +6,7 @@ This is the first repository created from the commandline!
 
 - Name: Morgyn Stryker (Primary Author)
 - Location: Los Angeles, CA
+
+## Favorite Winter Sport
+
+- Surfing!!!
